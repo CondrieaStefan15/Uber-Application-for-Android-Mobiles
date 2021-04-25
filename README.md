@@ -22,3 +22,5 @@ Main functions:
 - implementation of a rating system
 - Paypal payment system
 - display all available drivers in a specific area
+
+Technologies used: Android Studio, Java, JavaScript, XML, Firebase, Google APIs, PayPal APIs
